@@ -104,7 +104,7 @@ The machine learning model processes the following feature vectors:
 
 ## 🧑‍💻 Author
 
-**Muhammad Ezaan**
+**Muhammad Ezaan Riaz**
 
 *BS AI & Robotics Student*
 
